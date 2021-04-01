@@ -1,2 +1,10 @@
 @import "lib/variables";
+
+// elementos base
 @import "tablas";
+@import "base/botones";
+@import "base/tipografia";
+
+
+// componentes
+@import "components/grids.scss"

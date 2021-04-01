@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/_tablas.scss"],"names":[],"mappings":"AAAA;EACI","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_tablas.scss","../sass/base/_botones.scss","../sass/lib/_variables.scss"],"names":[],"mappings":"AAAA;EACI;;;ACDJ;EACI;EACA,OCKU;EDJV,kBCHU;EDIV;EACA,eCuBY;EDtBZ,WCmBa;;;ADhBb;EACI;;;AAGJ;EACI,kBCDI","file":"style.css"}
