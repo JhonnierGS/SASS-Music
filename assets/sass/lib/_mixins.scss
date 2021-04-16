@@ -1,0 +1,9 @@
+@mixin max-width{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    @include max-width;
+}
